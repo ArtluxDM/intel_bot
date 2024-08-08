@@ -4,7 +4,7 @@ import json
 import os
 
 # Replace with your bot's token
-TELEGRAM_BOT_TOKEN ='7460298642:AAHQm98WrgfKMg8YuvlaB2v4TijkE_P8qHU'
+TELEGRAM_BOT_TOKEN ={your telegram bot API key}
 
 # File to store chat IDs
 CHAT_IDS_FILE = 'chat_ids.json'
